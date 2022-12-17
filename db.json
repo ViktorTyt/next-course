@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Leo Messi",
+      "text": "There is nothing to do when linking to a dynamic route, including catch all routes, since Next.js 9.5.3 (for older versions check our previous docs). However, it can become quite common and handy to use interpolation or an URL Object to generate the link."
+    },
+    {
+      "id": 2,
+      "title": "Cristiano Ronaldo",
+      "text": "There is nothing to do when linking to a dynamic route, including catch all routes, since Next.js 9.5.3 (for older versions check our previous docs). However, it can become quite common and handy to use interpolation or an URL Object to generate the link."
+    },
+    {
+      "id": 3,
+      "title": "Killian Mpabbe",
+      "text": "There is nothing to do when linking to a dynamic route, including catch all routes, since Next.js 9.5.3 (for older versions check our previous docs). However, it can become quite common and handy to use interpolation or an URL Object to generate the link."
+    },
+    {
+      "id": 4,
+      "title": "Neymar",
+      "text": "There is nothing to do when linking to a dynamic route, including catch all routes, since Next.js 9.5.3 (for older versions check our previous docs). However, it can become quite common and handy to use interpolation or an URL Object to generate the link."
+    }
+  ],
+  "about": { "title": "Ukraine will win" }
+}
